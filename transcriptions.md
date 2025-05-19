@@ -1,0 +1,5 @@
+- 19:27:55: speech to text speech
+- 19:25:10: Google hello Google
+- 19:24:41: hello
+- 19:21:45: IT Solution
+- 19:15:44: Madhuri hello I am Madhuri
